@@ -91,7 +91,7 @@ class main
 	public static void main(String[] args) {
 
 		PickTwoCards p=new PickTwoCards();
-		double val=p.equalProbability("A");
+		double val=p.equalProbability("AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQRRSSTTUUVVWWXXYYZZ");
 		System.out.println(val);
 		
 	}
